@@ -174,7 +174,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: {src:"/g2cimg.png",width:500, height:500},
+      image:"/g2cimg.png",
       video:
         "",
     },
@@ -201,7 +201,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image:{src:"/helprx.png",width:500, height:500},
+      image:"/helprx.png",
       video: "",
     }
   ],
